@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Robson Alves Rocha e tenho 31 anos. Sou formado em Ciência da Computação para Universidade Anhanguera - Santo André/SP. Sou apaixonado por tecnologia e estou sempre em busca de novos desafios, onde eu possa aplicar e adquirir conhecimento.
+Me chamo Robson Alves Rocha e tenho 31 anos. Sou formado em Ciência da Computação pela Universidade Anhanguera - Santo André/SP. Sou apaixonado por tecnologia e estou sempre em busca de novos desafios, onde eu possa aplicar e adquirir conhecimento.
 
 
 ---
