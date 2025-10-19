@@ -4,6 +4,11 @@
 
 Me chamo Robson Alves Rocha e tenho 31 anos. Sou formado em Ciência da Computação pela Universidade Anhanguera - Santo André/SP. Sou apaixonado por tecnologia e estou sempre em busca de novos desafios, onde eu possa aplicar e adquirir conhecimento.
 
+---
+<div> 
+  <a href="https://instagram.com/robson_it" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/robsonrocha-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ---
 
